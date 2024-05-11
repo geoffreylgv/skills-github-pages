@@ -11,7 +11,8 @@ Hi, welcome and I'm glad you're here. I will share things I learned during my op
 
 Tublian is an open-source platform that serves as a marketplace for anyone in the technology industry based on the credibility of their activities (Streetcred). Tublian aims to solve this issue. Their mission centers around open source, providing unparalleled opportunities for those striving to excel in the technology industry. Tublian has identified a problem with developer recruitment: the requirement for a certain number of years of experience. Tublian aims to address this issue. Open source offers transparency, accessibility, and the power of collaboration.
 
-> [!NOTE] Tublian’s goal has always been to help developers to build in public. Because building in public and contributing to Open Source is one of the best ways to gain experience & build an amazing career in tech. Nilanja Founder Tublian
+> [!NOTE]
+> Tublian’s goal has always been to help developers to build in public. Because building in public and contributing to Open Source is one of the best ways to gain experience & build an amazing career in tech. Nilanja Founder Tublian
 
 Application and how I know about it
 
@@ -61,7 +62,7 @@ My involvement in the open source realm so far has led me to discover numerous o
 
 My experience during the Tublian Open Source Internship was transformative. I gained valuable insights into open-source software development, gained technical skills, especially learning about Python, and developed an appreciation for collaboration and community-driven initiatives.
 
-Learn more about open source by following my content and reading the comprehensive guide I contributed to at OpenSauced : Intro to Open source.
+Learn more about open source by following my content and reading the comprehensive guide I contributed to at [OpenSauced : Intro to Open source](https://intro.opensauced.pizza).
 
 ---
-Connect with me on GitHub and X (formally Twitter). I want to learn about your experience and takeaways, kindly like and post your thoughts in the comment section, see you in a future article.
+Connect with me on [GitHub](https://github.com/geoffreylgv) and [X](https://twitter.com/geoffreylgv) (formally Twitter). I want to learn about your experience and takeaways, kindly like and post your thoughts in the comment section, see you in a future article.
