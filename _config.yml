@@ -1,4 +1,11 @@
-theme: Blog post page
+theme: minima
 title: Geoffrey Logovi's blog
-author: geoffreylgv on twitter | linkedin and github
-description: all in Africa Programme learning
+author: 
+  name: Geoffrey Logovi
+  githubuser: geoffreylgv
+description: Developer Relations Engineer, Open Source Community Advocate. 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: classic
